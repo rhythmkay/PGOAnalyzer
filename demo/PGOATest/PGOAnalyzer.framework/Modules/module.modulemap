@@ -1,0 +1,6 @@
+framework module PGOAnalyzer {
+  umbrella header "PGOAnalyzer.h"
+
+  export *
+  module * { export * }
+}
