@@ -2,8 +2,8 @@
 //  PGOAnalyzer.h
 //  PGOAnalyzer
 //
-//  Created by rhythmkay on 2019/8/13.
-//  Copyright © 2019 rhythmkay. All rights reserved.
+//  Created by rhythmzhang on 2019/8/13.
+//  Copyright © 2019 rhythmzhang. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
