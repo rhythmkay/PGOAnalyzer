@@ -2,8 +2,8 @@
 //  mod_init_hook.h
 //  PGOAnalyzer
 //
-//  Created by rhythmkay on 2019/8/13.
-//  Copyright © 2019 rhythmkay. All rights reserved.
+//  Created by rhythmzhang on 2019/8/13.
+//  Copyright © 2019 rhythmzhang. All rights reserved.
 //
 
 #if defined(__arm64__) || defined(__aarch64__)
