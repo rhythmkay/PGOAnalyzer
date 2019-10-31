@@ -11,6 +11,8 @@ Analyzer目标是实现对objc程序的动态trace并顺序记录启动过程中
 
 > 实际使用，可以考虑编译插桩与动态trace结合，合并生成order file符号信息，以达到更优。
 
+关于原理见本文： [简谈二进制重排](http://www.cocoachina.com/articles/52793)
+
 
 #### 二、使用方式
 
